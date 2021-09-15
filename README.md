@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Create React App + ESLint + Prettier
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The project was modified following
+[Create React App + TypeScript + ESLint + Prettier Quick Start](https://davidltran.com/blog/cra-ts-eslint-prettier-quick-start/).
+
+# Existing Documentation
 
 ## Available Scripts
 
